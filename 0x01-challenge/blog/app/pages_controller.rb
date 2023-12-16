@@ -1,1 +1,0 @@
-pages_controller.rb
